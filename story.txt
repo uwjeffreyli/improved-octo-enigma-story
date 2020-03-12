@@ -4,4 +4,8 @@ Jeffrey was a good student that always got his assignments done on time.
 This particular assignment was with his X-team. For this assignment the 
 X-team had to use linux and git hub to write some stories. This is one of 
 those stories. Jeffery wrote the first paragraph and his teammate Joseph
-wrote the second paragraph.
+wrote the second paragraph. 
+After Joseph wrote the second paragraph, it was Jacob who wrote the third.
+He too thought that both Jeffrey and Joseph were good students and that this
+assignment was pretty interesting. Jacob really enjoyed learning more about 
+the commands and continuing writing this awesome story.
